@@ -1,0 +1,11 @@
+/*
+Unity River project
+
+In order to run this project it must be opened in Unity game engine.
+
+Once the project is open and you press the play button in the editor you will have to select four points on the plane.
+These points will then make a Bezier curve. Once the curve is made click again to confirm the shape and watch the river.
+When you want to make a new river press reset in the bottom left corner and select four new points to make a new shape.
+ 
+ 
+ */
